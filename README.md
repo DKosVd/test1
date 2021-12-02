@@ -3,7 +3,7 @@
 npm install
 
 СУБД на базе SQL (PostgreSQL)
-Необходимо создать таблицу:
+### Необходимо создать таблицу:
 CREATE TABLE public.queue
 (
     id integer NOT NULL GENERATED ALWAYS AS IDENTITY,
