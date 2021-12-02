@@ -16,4 +16,4 @@ CREATE TABLE public.queue
 ALTER TABLE IF EXISTS public.queue
     OWNER to postgres;
     
-В db.js при изменить параметры.
+### В db.js при изменить параметры.
